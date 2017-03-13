@@ -7,4 +7,5 @@ package essai;
  */
 public class ManuClass {
 ////qsdsqdsqdsqdsq
+	///qdqsdsqdsqdqs
 }
